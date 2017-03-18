@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e85e00</color>
+    <color name="colorPrimaryDark">#c95100</color>
+    <color name="colorAccent">#e28a26</color>
+
+    <color name="Apps">#29AAE1</color>
+    <color name="Backend">#666666</color>
+    <color name="DES">#5FAE30</color>
+    <color name="Infrastructure">#9D36A3</color>
+    <color name="Design">#FBAD26</color>
+</resources>
